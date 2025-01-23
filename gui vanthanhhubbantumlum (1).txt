@@ -262,7 +262,7 @@ function Library:CreateWindow(hubname)
     toggle_Image.BorderColor3 = Color3.fromRGB(0, 0, 0)
     toggle_Image.BorderSizePixel = 0
     toggle_Image.Size = UDim2.new(0, 50, 0, 47)
-    toggle_Image.Image = "rbxassetid://81127365331139"
+    toggle_Image.Image = "rbxassetid://113316448532747"
     toggle_Image.ImageColor3 = Color3.fromRGB(255, 255, 255)
 
     local minimizetog = false
